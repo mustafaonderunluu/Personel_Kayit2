@@ -1,0 +1,11 @@
+C:\Users\musta\source\repos\Personel_Kayit\Personel_Kayit\bin\Debug\Personel_Kayit.exe.config
+C:\Users\musta\source\repos\Personel_Kayit\Personel_Kayit\bin\Debug\Personel_Kayit.exe
+C:\Users\musta\source\repos\Personel_Kayit\Personel_Kayit\bin\Debug\Personel_Kayit.pdb
+C:\Users\musta\source\repos\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.csproj.AssemblyReference.cache
+C:\Users\musta\source\repos\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.Form1.resources
+C:\Users\musta\source\repos\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.Properties.Resources.resources
+C:\Users\musta\source\repos\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.csproj.GenerateResource.cache
+C:\Users\musta\source\repos\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.exe
+C:\Users\musta\source\repos\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.pdb
+C:\Users\musta\source\repos\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.Frmİstatistik.resources
